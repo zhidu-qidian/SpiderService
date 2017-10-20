@@ -1,0 +1,17 @@
+{
+  "Global":{
+    "Listen": "0.0.0.0:8081",
+    "Debug": false
+  },
+  "Postgres": {
+    "Address": "10.47.54.175",
+    "Db": "BDP",
+    "User": "postgres",
+    "Password": ""
+  },
+  "AliOss": {
+    "Endpoint": "",
+    "AccessID": "",
+    "AccessKey": ""
+  }
+}
